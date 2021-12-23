@@ -1,0 +1,17 @@
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.deps.json
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.runtimeconfig.json
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.dll
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\ref\SamuraiApp.Data.dll
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.pdb
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Domain.dll
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Domain.pdb
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.AssemblyReference.cache
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfo.cs
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CopyComplete
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.dll
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\ref\SamuraiApp.Data.dll
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.pdb
+D:\TreinamentoAvanade\EntityFramework\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.genruntimeconfig.cache
